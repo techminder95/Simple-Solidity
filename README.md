@@ -1,4 +1,4 @@
-# Smart contract exercises for Mewo Informatique School
+# Simple Smart contract(Solidity) exercises
 
 ## General instructions
 
